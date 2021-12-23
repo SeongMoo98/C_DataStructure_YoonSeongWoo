@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\이진트리의 구현">
+      <UniqueIdentifier>{da5f9aaf-f5e1-486f-ac1f-aa3ba2a809be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\이진트리의 순회">
+      <UniqueIdentifier>{ac629801-1744-4c43-b582-72139a166b10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제">
+      <UniqueIdentifier>{5a65d5c6-a9cf-40b1-b160-91af08d016ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\수식트리의 구현">
+      <UniqueIdentifier>{41c78f49-fb4f-495d-809c-32ac59d1aa88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>소스 파일\이진트리의 구현</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree2.h">
+      <Filter>소스 파일\이진트리의 순회</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBaseStack.h">
+      <Filter>소스 파일\수식트리의 구현</Filter>
+    </ClInclude>
+    <ClInclude Include="ExpressionTree.h">
+      <Filter>소스 파일\수식트리의 구현</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BinaryTree.c">
+      <Filter>소스 파일\이진트리의 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeMain.c">
+      <Filter>소스 파일\이진트리의 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTree2.c">
+      <Filter>소스 파일\이진트리의 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeMain2.c">
+      <Filter>소스 파일\이진트리의 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBaseStack.c">
+      <Filter>소스 파일\수식트리의 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpressionTree.c">
+      <Filter>소스 파일\수식트리의 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpressionMain.c">
+      <Filter>소스 파일\수식트리의 구현</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="문제 8-2.c">
+      <Filter>소스 파일\문제</Filter>
+    </None>
+  </ItemGroup>
+</Project>
