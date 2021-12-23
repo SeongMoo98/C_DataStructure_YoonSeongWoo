@@ -1,0 +1,3 @@
+﻿  이진탐색.c
+C:\Users\rudnf\source\repos\자료구조 chapter_1\자료구조 chapter_1\이진탐색.c(50,52): warning C4020: 'BinarySearch': 실제 매개 변수가 너무 많습니다.
+  자료구조 chapter_1.vcxproj -> C:\Users\rudnf\source\repos\자료구조 chapter_1\Debug\자료구조 chapter_1.exe

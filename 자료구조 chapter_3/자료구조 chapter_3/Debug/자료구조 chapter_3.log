@@ -1,0 +1,5 @@
+﻿  NameCard.c
+C:\Users\rudnf\source\repos\자료구조 chapter_3\자료구조 chapter_3\NameCard.c(9,36): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\rudnf\source\repos\자료구조 chapter_3\자료구조 chapter_3\NameCard.c(9,54): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\rudnf\source\repos\자료구조 chapter_3\자료구조 chapter_3\NameCard.c(34,50): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  자료구조 chapter_3.vcxproj -> C:\Users\rudnf\source\repos\자료구조 chapter_3\Debug\자료구조 chapter_3.exe
